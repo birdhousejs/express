@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "0.0.10",
+  "description": "Birdhouse for express",
+  "main": "index.js",
+  "repository": "https://github.com/birdhousejs/express.git",
+  "author": "Fran Jurmanović <fjurma12@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "pg": "^8.5.1",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31"
+  }
+}
