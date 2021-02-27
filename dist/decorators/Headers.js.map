@@ -1,0 +1,1 @@
+{"version":3,"file":"Headers.js","sourceRoot":"","sources":["../../decorators/Headers.ts"],"names":[],"mappings":";;AAAA,SAAwB,OAAO,CAAC,MAAM,EAAE,KAAK,EAAE,QAAQ;IACtD,MAAM,CAAC,OAAO,GAAG;QAChB,IAAI,EAAE,KAAK;QACX,IAAI,EAAE,EAAE,CAAC,QAAQ,CAAC,EAAE,aAAa,EAAE;KACnC,CAAC;AACH,CAAC;AALD,0BAKC"}
